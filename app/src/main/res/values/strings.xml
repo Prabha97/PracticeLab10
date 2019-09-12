@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">lab10practiceExam</string>
+    <string name="loginHead">The CourseApp</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="btnlog">Login</string>
+    <string name="btnregister" />
+    <string name="btnregist">Register</string>
+    <string name="registerHead">Register Form</string>
+    <string name="username">Username</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">Student</string>
+    <string name="teacherHead">Welcome Username</string>
+    <string name="subject">Subject</string>
+    <string name="msg">Message</string>
+    <string name="sendbtn">SEND</string>
+</resources>
